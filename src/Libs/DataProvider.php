@@ -7,7 +7,7 @@ use ZnDomain\DataProvider\Entities\DataProviderEntity;
 use ZnDomain\DataProvider\Interfaces\DataProviderInterface;
 use ZnDomain\Domain\Interfaces\ReadAllInterface;
 use ZnCore\Instance\Helpers\ClassHelper;
-use ZnCore\Query\Entities\Query;
+use ZnDomain\Query\Entities\Query;
 use ZnDomain\QueryFilter\Interfaces\ForgeQueryByFilterInterface;
 
 class DataProvider implements DataProviderInterface
